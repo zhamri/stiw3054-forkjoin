@@ -9,7 +9,7 @@ public class SearchingNumber1 {
         return count;
     }
 
-    public static void main(String a[]) {
+    public static void main(String[] args) {
         int[] myArray = {8, 3, 5, 4, 6, 3, 7, 7, 3, 3, 10, 2};
         int key = 3;
         long startTime = System.currentTimeMillis();
